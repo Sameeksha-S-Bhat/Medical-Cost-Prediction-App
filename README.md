@@ -6,20 +6,6 @@ A machine learning project that predicts medical insurance costs based on person
 
 ---
 
-## 📌 Table of Contents
-- [Overview](#overview)
-- [Live Demo](#live-demo)
-- [Dataset](#dataset)
-- [Methodology](#methodology)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [How to Use](#how-to-use)
-- [Key Learnings](#key-learnings)
-- [Author](#author)
-
----
-
 ## 📊 Overview
 
 Healthcare costs vary greatly across individuals based on factors like age, BMI, smoking status, and lifestyle. By leveraging historical data and regression techniques, this project predicts insurance charges — helping individuals and insurance providers make data-informed decisions.
